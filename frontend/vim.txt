@@ -1,0 +1,8 @@
+commands
+
+
+daw => delete the current word
+x => delete the char under the pointer
+di" => delete every thing inside ""
+di( => delete every thing inside ()
+vib => select every thing inside
